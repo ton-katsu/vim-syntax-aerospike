@@ -14,6 +14,6 @@ syntax/aerospike.vim copy to your .vim/syntax directory.
 
 Add your .vimrc
 
-        au BufNewFile,BufRead aerospike.conf      set filetype=aerospikeconfig
+        au BufNewFile,BufRead aerospike.conf      set filetype=aerospike
 
 

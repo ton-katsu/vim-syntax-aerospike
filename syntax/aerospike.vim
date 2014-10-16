@@ -67,4 +67,4 @@ hi link aeroXdrConParam        Function
 hi link aeroClusterConParam    Function
 hi link aeroLogConParam        Statement
 
-let b:current_syntax = "aerospikeconfig"
+let b:current_syntax = "aerospike"
